@@ -1,11 +1,13 @@
 # 💫 About Me:
 ### Hi, I’m Ruslan!
 
-💻 Frontend-developer is engaged in developing websites and studying new technologies<br/>
+💻 Frontend-developer turning ideas into beautiful and functional web experiences<br/>
 🧑🏻‍🎓 Studies at the Voronezh Forest Technical University in Voronezh<br/>
 🏔️ Actively learning something new<br/>
 🌠 I dream of developing very strongly in the IT field and achieving a lot<br/>
 
+# 🗂️ My Projects:
+- [KreiN-s-Blog-ToDo](https://github.com/KreiNafig/KreiN-s-Blog-ToDo) – React, React Router, Redux Toolkit + RTK Query, Node.js + Express
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/krein1)<br/>
