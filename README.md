@@ -10,7 +10,7 @@
 - [KreiN-s-Blog-ToDo](https://github.com/KreiNafig/KreiN-s-Blog-ToDo) – React, React Router, Redux Toolkit + RTK Query, Node.js + Express
 - [FocusFlow](https://github.com/KreiNafig/FocusFlow) - React, TypeScript, SCSS, Redux Toolkit + RTK Query, React Router
 - [Krein.Dev](https://github.com/KreiNafig/Krein.Dev) - React, TypeScript, SCSS
-- [Steam-games-analysys](https://github.com/KreiNafig/steam-games-analysis) - Pandas, Numpy, Matplotlib, Seaborn, Jupyter
+- [Steam-games-analysis](https://github.com/KreiNafig/steam-games-analysis) - Pandas, Numpy, Matplotlib, Seaborn, Jupyter
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/krein1)<br/>
